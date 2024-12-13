@@ -9,6 +9,13 @@
             "name": "App",
             "request": "launch",
             "mainClass": "App",
+            "projectName": "Estructuras-Lineales-Ejercicios_3c11f9d5"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
             "projectName": "Ejercicios-Logica-con-Pilas-y-Colas_55bca4a9"
         },
         {

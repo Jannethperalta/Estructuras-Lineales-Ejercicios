@@ -5,9 +5,17 @@ import Materia.Stacks.StackGeneric;
 
 public class App {
         public static void main(String[] args) throws Exception {
-
+        System.out.println(" ==========================================================");
+               System.out.println("Validación de Signos");
+         System.out.println(" ==========================================================");
                 runEjercicio1();
+         System.out.println(" ==========================================================");
+        System.out.println(" ==========================================================");
+        System.out.println(" Ordenar un Stack");
+        System.out.println(" ==========================================================");
+               
                 runEjercicio2();
+         System.out.println(" ==========================================================");
 
         }
 
